@@ -76,5 +76,8 @@
         } //end else
         
     %>
+                 <tr>
+                <td><a href="/DentOffice/newApptPage.jsp">View Next Appointment</a></td>
+                </tr>
     </form>
 </html>
