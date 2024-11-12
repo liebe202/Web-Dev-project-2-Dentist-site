@@ -59,9 +59,11 @@
                 out.println("<a href='newApptPage.jsp'>Make an Appointment</a>");
                 out.println("</body></html>");    
             }
-        
-        
+               
         
         
         
   %>
+                 <tr>
+                <td><a href="/DentOffice/newApptPage.jsp">View Next Appointment</a></td>
+                </tr>
